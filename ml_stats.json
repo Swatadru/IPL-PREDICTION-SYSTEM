@@ -1,0 +1,458 @@
+{
+  "team_win_rates": {
+    "Punjab Kings": 0.499,
+    "Gujarat Titans": 0.5046,
+    "Royal Challengers Bangalore": 0.5021,
+    "Delhi Capitals": 0.4868,
+    "Chennai Super Kings": 0.5057,
+    "Sunrisers Hyderabad": 0.4877,
+    "Lucknow Super Giants": 0.5021,
+    "Mumbai Indians": 0.5047,
+    "Kolkata Knight Riders": 0.4986,
+    "Rajasthan Royals": 0.5085
+  },
+  "team_avg_scores": {
+    "Punjab Kings": 164.7,
+    "Gujarat Titans": 163.6,
+    "Royal Challengers Bangalore": 164.7,
+    "Delhi Capitals": 162.4,
+    "Chennai Super Kings": 164.1,
+    "Sunrisers Hyderabad": 163.7,
+    "Lucknow Super Giants": 162.5,
+    "Mumbai Indians": 163.8,
+    "Kolkata Knight Riders": 163.8,
+    "Rajasthan Royals": 163.4
+  },
+  "h2h": {
+    "Gujarat Titans|Punjab Kings": {
+      "total": 157,
+      "Gujarat Titans": 84,
+      "Punjab Kings": 73
+    },
+    "Delhi Capitals|Royal Challengers Bangalore": {
+      "total": 156,
+      "Delhi Capitals": 77,
+      "Royal Challengers Bangalore": 79
+    },
+    "Delhi Capitals|Gujarat Titans": {
+      "total": 165,
+      "Delhi Capitals": 80,
+      "Gujarat Titans": 85
+    },
+    "Chennai Super Kings|Sunrisers Hyderabad": {
+      "total": 164,
+      "Chennai Super Kings": 79,
+      "Sunrisers Hyderabad": 85
+    },
+    "Lucknow Super Giants|Punjab Kings": {
+      "total": 150,
+      "Lucknow Super Giants": 78,
+      "Punjab Kings": 72
+    },
+    "Delhi Capitals|Lucknow Super Giants": {
+      "total": 164,
+      "Delhi Capitals": 82,
+      "Lucknow Super Giants": 82
+    },
+    "Chennai Super Kings|Mumbai Indians": {
+      "total": 161,
+      "Chennai Super Kings": 73,
+      "Mumbai Indians": 88
+    },
+    "Delhi Capitals|Sunrisers Hyderabad": {
+      "total": 158,
+      "Delhi Capitals": 82,
+      "Sunrisers Hyderabad": 76
+    },
+    "Gujarat Titans|Lucknow Super Giants": {
+      "total": 148,
+      "Gujarat Titans": 71,
+      "Lucknow Super Giants": 77
+    },
+    "Lucknow Super Giants|Mumbai Indians": {
+      "total": 135,
+      "Lucknow Super Giants": 69,
+      "Mumbai Indians": 66
+    },
+    "Kolkata Knight Riders|Rajasthan Royals": {
+      "total": 156,
+      "Kolkata Knight Riders": 66,
+      "Rajasthan Royals": 90
+    },
+    "Delhi Capitals|Mumbai Indians": {
+      "total": 183,
+      "Delhi Capitals": 88,
+      "Mumbai Indians": 95
+    },
+    "Kolkata Knight Riders|Sunrisers Hyderabad": {
+      "total": 165,
+      "Kolkata Knight Riders": 98,
+      "Sunrisers Hyderabad": 67
+    },
+    "Punjab Kings|Sunrisers Hyderabad": {
+      "total": 155,
+      "Punjab Kings": 87,
+      "Sunrisers Hyderabad": 68
+    },
+    "Gujarat Titans|Royal Challengers Bangalore": {
+      "total": 160,
+      "Gujarat Titans": 87,
+      "Royal Challengers Bangalore": 73
+    },
+    "Kolkata Knight Riders|Lucknow Super Giants": {
+      "total": 180,
+      "Kolkata Knight Riders": 86,
+      "Lucknow Super Giants": 94
+    },
+    "Kolkata Knight Riders|Royal Challengers Bangalore": {
+      "total": 171,
+      "Kolkata Knight Riders": 92,
+      "Royal Challengers Bangalore": 79
+    },
+    "Delhi Capitals|Rajasthan Royals": {
+      "total": 154,
+      "Delhi Capitals": 78,
+      "Rajasthan Royals": 76
+    },
+    "Kolkata Knight Riders|Punjab Kings": {
+      "total": 176,
+      "Kolkata Knight Riders": 88,
+      "Punjab Kings": 88
+    },
+    "Royal Challengers Bangalore|Sunrisers Hyderabad": {
+      "total": 161,
+      "Royal Challengers Bangalore": 76,
+      "Sunrisers Hyderabad": 85
+    },
+    "Gujarat Titans|Mumbai Indians": {
+      "total": 162,
+      "Gujarat Titans": 83,
+      "Mumbai Indians": 79
+    },
+    "Mumbai Indians|Punjab Kings": {
+      "total": 171,
+      "Mumbai Indians": 87,
+      "Punjab Kings": 84
+    },
+    "Delhi Capitals|Kolkata Knight Riders": {
+      "total": 152,
+      "Delhi Capitals": 73,
+      "Kolkata Knight Riders": 79
+    },
+    "Chennai Super Kings|Punjab Kings": {
+      "total": 159,
+      "Chennai Super Kings": 79,
+      "Punjab Kings": 80
+    },
+    "Lucknow Super Giants|Royal Challengers Bangalore": {
+      "total": 163,
+      "Lucknow Super Giants": 74,
+      "Royal Challengers Bangalore": 89
+    },
+    "Mumbai Indians|Rajasthan Royals": {
+      "total": 191,
+      "Mumbai Indians": 107,
+      "Rajasthan Royals": 84
+    },
+    "Chennai Super Kings|Delhi Capitals": {
+      "total": 171,
+      "Chennai Super Kings": 97,
+      "Delhi Capitals": 74
+    },
+    "Chennai Super Kings|Lucknow Super Giants": {
+      "total": 157,
+      "Chennai Super Kings": 77,
+      "Lucknow Super Giants": 80
+    },
+    "Gujarat Titans|Sunrisers Hyderabad": {
+      "total": 149,
+      "Gujarat Titans": 67,
+      "Sunrisers Hyderabad": 82
+    },
+    "Delhi Capitals|Punjab Kings": {
+      "total": 135,
+      "Delhi Capitals": 66,
+      "Punjab Kings": 69
+    },
+    "Gujarat Titans|Kolkata Knight Riders": {
+      "total": 161,
+      "Gujarat Titans": 78,
+      "Kolkata Knight Riders": 83
+    },
+    "Rajasthan Royals|Royal Challengers Bangalore": {
+      "total": 152,
+      "Rajasthan Royals": 78,
+      "Royal Challengers Bangalore": 74
+    },
+    "Mumbai Indians|Sunrisers Hyderabad": {
+      "total": 152,
+      "Mumbai Indians": 68,
+      "Sunrisers Hyderabad": 84
+    },
+    "Gujarat Titans|Rajasthan Royals": {
+      "total": 150,
+      "Gujarat Titans": 75,
+      "Rajasthan Royals": 75
+    },
+    "Chennai Super Kings|Rajasthan Royals": {
+      "total": 149,
+      "Chennai Super Kings": 78,
+      "Rajasthan Royals": 71
+    },
+    "Lucknow Super Giants|Rajasthan Royals": {
+      "total": 172,
+      "Lucknow Super Giants": 78,
+      "Rajasthan Royals": 94
+    },
+    "Punjab Kings|Rajasthan Royals": {
+      "total": 165,
+      "Punjab Kings": 83,
+      "Rajasthan Royals": 82
+    },
+    "Kolkata Knight Riders|Mumbai Indians": {
+      "total": 165,
+      "Kolkata Knight Riders": 79,
+      "Mumbai Indians": 86
+    },
+    "Chennai Super Kings|Royal Challengers Bangalore": {
+      "total": 152,
+      "Chennai Super Kings": 74,
+      "Royal Challengers Bangalore": 78
+    },
+    "Punjab Kings|Royal Challengers Bangalore": {
+      "total": 173,
+      "Punjab Kings": 83,
+      "Royal Challengers Bangalore": 90
+    },
+    "Rajasthan Royals|Sunrisers Hyderabad": {
+      "total": 176,
+      "Rajasthan Royals": 95,
+      "Sunrisers Hyderabad": 81
+    },
+    "Chennai Super Kings|Gujarat Titans": {
+      "total": 161,
+      "Chennai Super Kings": 78,
+      "Gujarat Titans": 83
+    },
+    "Lucknow Super Giants|Sunrisers Hyderabad": {
+      "total": 143,
+      "Lucknow Super Giants": 77,
+      "Sunrisers Hyderabad": 66
+    },
+    "Chennai Super Kings|Kolkata Knight Riders": {
+      "total": 136,
+      "Chennai Super Kings": 78,
+      "Kolkata Knight Riders": 58
+    },
+    "Mumbai Indians|Royal Challengers Bangalore": {
+      "total": 164,
+      "Mumbai Indians": 73,
+      "Royal Challengers Bangalore": 91
+    }
+  },
+  "team_venue": {
+    "Punjab Kings|Brown Orchard Stadium": 0.4943,
+    "Gujarat Titans|Brown Orchard Stadium": 0.4615,
+    "Royal Challengers Bangalore|Melissa Loop Stadium": 0.5065,
+    "Delhi Capitals|Melissa Loop Stadium": 0.473,
+    "Delhi Capitals|Brenda Land Stadium": 0.5789,
+    "Gujarat Titans|Brenda Land Stadium": 0.4706,
+    "Chennai Super Kings|Brown Orchard Stadium": 0.4342,
+    "Sunrisers Hyderabad|Brown Orchard Stadium": 0.6,
+    "Punjab Kings|Hammond Lakes Stadium": 0.5,
+    "Lucknow Super Giants|Hammond Lakes Stadium": 0.6277,
+    "Gujarat Titans|Duncan Port Stadium": 0.5205,
+    "Punjab Kings|Duncan Port Stadium": 0.4545,
+    "Delhi Capitals|Hammond Lakes Stadium": 0.4302,
+    "Punjab Kings|Berger Cliff Stadium": 0.5529,
+    "Gujarat Titans|Berger Cliff Stadium": 0.5769,
+    "Chennai Super Kings|Hammond Lakes Stadium": 0.4675,
+    "Mumbai Indians|Hammond Lakes Stadium": 0.5625,
+    "Mumbai Indians|Berger Cliff Stadium": 0.3382,
+    "Chennai Super Kings|Berger Cliff Stadium": 0.5075,
+    "Sunrisers Hyderabad|Anthony Glens Stadium": 0.5,
+    "Delhi Capitals|Anthony Glens Stadium": 0.4444,
+    "Gujarat Titans|Mary Trail Stadium": 0.5692,
+    "Lucknow Super Giants|Mary Trail Stadium": 0.4861,
+    "Lucknow Super Giants|Dillon Plain Stadium": 0.4714,
+    "Mumbai Indians|Dillon Plain Stadium": 0.4891,
+    "Kolkata Knight Riders|Manning Village Stadium": 0.4429,
+    "Rajasthan Royals|Manning Village Stadium": 0.5244,
+    "Delhi Capitals|Manning Village Stadium": 0.5224,
+    "Mumbai Indians|Manning Village Stadium": 0.4578,
+    "Rajasthan Royals|Yu Keys Stadium": 0.5972,
+    "Kolkata Knight Riders|Yu Keys Stadium": 0.4776,
+    "Kolkata Knight Riders|Anthony Glens Stadium": 0.4941,
+    "Punjab Kings|Anthony Glens Stadium": 0.4658,
+    "Delhi Capitals|Lopez Field Stadium": 0.4571,
+    "Lucknow Super Giants|Lopez Field Stadium": 0.597,
+    "Mumbai Indians|Brenda Land Stadium": 0.5949,
+    "Lucknow Super Giants|Brenda Land Stadium": 0.3562,
+    "Gujarat Titans|Anthony Glens Stadium": 0.4237,
+    "Royal Challengers Bangalore|Anthony Glens Stadium": 0.557,
+    "Kolkata Knight Riders|Brown Orchard Stadium": 0.5634,
+    "Lucknow Super Giants|Brown Orchard Stadium": 0.4756,
+    "Royal Challengers Bangalore|Manning Village Stadium": 0.4868,
+    "Delhi Capitals|Ford Burgs Stadium": 0.5897,
+    "Rajasthan Royals|Ford Burgs Stadium": 0.5077,
+    "Lucknow Super Giants|Jason Alley Stadium": 0.5172,
+    "Delhi Capitals|Jason Alley Stadium": 0.439,
+    "Gujarat Titans|Manning Village Stadium": 0.4559,
+    "Sunrisers Hyderabad|Robbins Flat Stadium": 0.507,
+    "Chennai Super Kings|Robbins Flat Stadium": 0.5862,
+    "Delhi Capitals|Berger Cliff Stadium": 0.5,
+    "Mumbai Indians|Melissa Loop Stadium": 0.5616,
+    "Chennai Super Kings|Melissa Loop Stadium": 0.5455,
+    "Kolkata Knight Riders|Jason Alley Stadium": 0.5333,
+    "Punjab Kings|Jason Alley Stadium": 0.494,
+    "Royal Challengers Bangalore|Ellison Ports Stadium": 0.6282,
+    "Sunrisers Hyderabad|Ellison Ports Stadium": 0.4805,
+    "Gujarat Titans|Ford Burgs Stadium": 0.5735,
+    "Mumbai Indians|Ford Burgs Stadium": 0.5526,
+    "Punjab Kings|Ford Burgs Stadium": 0.5806,
+    "Delhi Capitals|Brown Orchard Stadium": 0.4691,
+    "Chennai Super Kings|Anthony Glens Stadium": 0.5238,
+    "Lucknow Super Giants|Melissa Loop Stadium": 0.4776,
+    "Delhi Capitals|Ellison Ports Stadium": 0.4756,
+    "Gujarat Titans|Ellison Ports Stadium": 0.4337,
+    "Gujarat Titans|Misty Underpass Stadium": 0.4915,
+    "Royal Challengers Bangalore|Misty Underpass Stadium": 0.4375,
+    "Kolkata Knight Riders|Ellison Ports Stadium": 0.6143,
+    "Mumbai Indians|Misty Underpass Stadium": 0.4675,
+    "Rajasthan Royals|Misty Underpass Stadium": 0.5769,
+    "Lucknow Super Giants|Yu Keys Stadium": 0.4487,
+    "Gujarat Titans|Yu Keys Stadium": 0.5205,
+    "Lucknow Super Giants|Ford Burgs Stadium": 0.5857,
+    "Kolkata Knight Riders|Ford Burgs Stadium": 0.377,
+    "Delhi Capitals|Dillon Plain Stadium": 0.4156,
+    "Chennai Super Kings|Dillon Plain Stadium": 0.5714,
+    "Kolkata Knight Riders|Rice Crescent Stadium": 0.4375,
+    "Rajasthan Royals|Rice Crescent Stadium": 0.4868,
+    "Chennai Super Kings|Ellison Ports Stadium": 0.4868,
+    "Lucknow Super Giants|Ellison Ports Stadium": 0.5072,
+    "Sunrisers Hyderabad|Ford Burgs Stadium": 0.3867,
+    "Kolkata Knight Riders|Misty Underpass Stadium": 0.4194,
+    "Lucknow Super Giants|Robbins Flat Stadium": 0.4493,
+    "Gujarat Titans|Robbins Flat Stadium": 0.3662,
+    "Gujarat Titans|Lopez Field Stadium": 0.4933,
+    "Punjab Kings|Manning Village Stadium": 0.5278,
+    "Mumbai Indians|Brown Orchard Stadium": 0.5065,
+    "Sunrisers Hyderabad|Duncan Port Stadium": 0.4458,
+    "Royal Challengers Bangalore|Brown Orchard Stadium": 0.4648,
+    "Kolkata Knight Riders|Jonathan Squares Stadium": 0.5352,
+    "Punjab Kings|Jonathan Squares Stadium": 0.4267,
+    "Punjab Kings|Ellison Ports Stadium": 0.4699,
+    "Punjab Kings|Robbins Flat Stadium": 0.5075,
+    "Kolkata Knight Riders|Robbins Flat Stadium": 0.5455,
+    "Kolkata Knight Riders|Brenda Land Stadium": 0.4684,
+    "Rajasthan Royals|Anthony Glens Stadium": 0.4507,
+    "Royal Challengers Bangalore|Hammond Lakes Stadium": 0.561,
+    "Mumbai Indians|Anthony Glens Stadium": 0.5349,
+    "Royal Challengers Bangalore|Dillon Plain Stadium": 0.537,
+    "Gujarat Titans|Dillon Plain Stadium": 0.6066,
+    "Kolkata Knight Riders|Dillon Plain Stadium": 0.5844,
+    "Rajasthan Royals|Dillon Plain Stadium": 0.4429,
+    "Rajasthan Royals|Brown Orchard Stadium": 0.5405,
+    "Chennai Super Kings|Lopez Field Stadium": 0.5256,
+    "Punjab Kings|Lopez Field Stadium": 0.4872,
+    "Chennai Super Kings|Mary Trail Stadium": 0.4375,
+    "Mumbai Indians|Mary Trail Stadium": 0.4833,
+    "Rajasthan Royals|Jason Alley Stadium": 0.5067,
+    "Chennai Super Kings|Jason Alley Stadium": 0.4545,
+    "Kolkata Knight Riders|Lopez Field Stadium": 0.4079,
+    "Royal Challengers Bangalore|Lopez Field Stadium": 0.5395,
+    "Chennai Super Kings|Ford Burgs Stadium": 0.4179,
+    "Rajasthan Royals|Duncan Port Stadium": 0.4861,
+    "Kolkata Knight Riders|Melissa Loop Stadium": 0.4545,
+    "Royal Challengers Bangalore|Robbins Flat Stadium": 0.5238,
+    "Mumbai Indians|Yu Keys Stadium": 0.5714,
+    "Royal Challengers Bangalore|Ford Burgs Stadium": 0.4189,
+    "Mumbai Indians|Lopez Field Stadium": 0.5476,
+    "Chennai Super Kings|Misty Underpass Stadium": 0.4844,
+    "Lucknow Super Giants|Misty Underpass Stadium": 0.4933,
+    "Rajasthan Royals|Jonathan Squares Stadium": 0.5495,
+    "Sunrisers Hyderabad|Yu Keys Stadium": 0.4304,
+    "Punjab Kings|Yu Keys Stadium": 0.5088,
+    "Royal Challengers Bangalore|Berger Cliff Stadium": 0.5568,
+    "Punjab Kings|Dillon Plain Stadium": 0.4333,
+    "Rajasthan Royals|Robbins Flat Stadium": 0.4861,
+    "Mumbai Indians|Jonathan Squares Stadium": 0.4211,
+    "Mumbai Indians|Ellison Ports Stadium": 0.5132,
+    "Punjab Kings|Misty Underpass Stadium": 0.5571,
+    "Kolkata Knight Riders|Berger Cliff Stadium": 0.5,
+    "Royal Challengers Bangalore|Duncan Port Stadium": 0.4872,
+    "Punjab Kings|Nicole Bridge Stadium": 0.4776,
+    "Sunrisers Hyderabad|Nicole Bridge Stadium": 0.5278,
+    "Sunrisers Hyderabad|Rice Crescent Stadium": 0.4795,
+    "Gujarat Titans|Hammond Lakes Stadium": 0.4595,
+    "Mumbai Indians|Rice Crescent Stadium": 0.5077,
+    "Rajasthan Royals|Brenda Land Stadium": 0.5139,
+    "Delhi Capitals|Misty Underpass Stadium": 0.5479,
+    "Sunrisers Hyderabad|Melissa Loop Stadium": 0.5238,
+    "Delhi Capitals|Jonathan Squares Stadium": 0.5714,
+    "Chennai Super Kings|Duncan Port Stadium": 0.55,
+    "Kolkata Knight Riders|Duncan Port Stadium": 0.6,
+    "Lucknow Super Giants|Anthony Glens Stadium": 0.5735,
+    "Kolkata Knight Riders|Nicole Bridge Stadium": 0.6053,
+    "Gujarat Titans|Melissa Loop Stadium": 0.4355,
+    "Rajasthan Royals|Berger Cliff Stadium": 0.5,
+    "Sunrisers Hyderabad|Berger Cliff Stadium": 0.5,
+    "Gujarat Titans|Jason Alley Stadium": 0.5517,
+    "Mumbai Indians|Jason Alley Stadium": 0.5143,
+    "Delhi Capitals|Yu Keys Stadium": 0.4677,
+    "Delhi Capitals|Rice Crescent Stadium": 0.4355,
+    "Rajasthan Royals|Ellison Ports Stadium": 0.4125,
+    "Mumbai Indians|Duncan Port Stadium": 0.493,
+    "Lucknow Super Giants|Duncan Port Stadium": 0.5077,
+    "Delhi Capitals|Robbins Flat Stadium": 0.4935,
+    "Sunrisers Hyderabad|Jason Alley Stadium": 0.5156,
+    "Sunrisers Hyderabad|Brenda Land Stadium": 0.4384,
+    "Rajasthan Royals|Hammond Lakes Stadium": 0.5556,
+    "Lucknow Super Giants|Nicole Bridge Stadium": 0.4366,
+    "Mumbai Indians|Nicole Bridge Stadium": 0.4638,
+    "Chennai Super Kings|Brenda Land Stadium": 0.5325,
+    "Mumbai Indians|Robbins Flat Stadium": 0.5067,
+    "Lucknow Super Giants|Rice Crescent Stadium": 0.4921,
+    "Delhi Capitals|Duncan Port Stadium": 0.4861,
+    "Punjab Kings|Melissa Loop Stadium": 0.5139,
+    "Sunrisers Hyderabad|Manning Village Stadium": 0.4865,
+    "Sunrisers Hyderabad|Mary Trail Stadium": 0.5385,
+    "Lucknow Super Giants|Jonathan Squares Stadium": 0.5333,
+    "Gujarat Titans|Jonathan Squares Stadium": 0.6163,
+    "Chennai Super Kings|Jonathan Squares Stadium": 0.4839,
+    "Sunrisers Hyderabad|Jonathan Squares Stadium": 0.5065,
+    "Gujarat Titans|Rice Crescent Stadium": 0.5286,
+    "Lucknow Super Giants|Manning Village Stadium": 0.5645,
+    "Delhi Capitals|Mary Trail Stadium": 0.4189,
+    "Royal Challengers Bangalore|Jason Alley Stadium": 0.4789,
+    "Royal Challengers Bangalore|Jonathan Squares Stadium": 0.3488,
+    "Rajasthan Royals|Lopez Field Stadium": 0.4203,
+    "Chennai Super Kings|Yu Keys Stadium": 0.5143,
+    "Chennai Super Kings|Nicole Bridge Stadium": 0.4776,
+    "Rajasthan Royals|Melissa Loop Stadium": 0.4923,
+    "Royal Challengers Bangalore|Rice Crescent Stadium": 0.4688,
+    "Punjab Kings|Brenda Land Stadium": 0.4688,
+    "Sunrisers Hyderabad|Lopez Field Stadium": 0.5273,
+    "Kolkata Knight Riders|Hammond Lakes Stadium": 0.4045,
+    "Lucknow Super Giants|Berger Cliff Stadium": 0.4219,
+    "Sunrisers Hyderabad|Misty Underpass Stadium": 0.5,
+    "Royal Challengers Bangalore|Brenda Land Stadium": 0.56,
+    "Punjab Kings|Rice Crescent Stadium": 0.6094,
+    "Royal Challengers Bangalore|Mary Trail Stadium": 0.5395,
+    "Gujarat Titans|Nicole Bridge Stadium": 0.5,
+    "Sunrisers Hyderabad|Hammond Lakes Stadium": 0.4306,
+    "Royal Challengers Bangalore|Nicole Bridge Stadium": 0.4407,
+    "Kolkata Knight Riders|Mary Trail Stadium": 0.5,
+    "Punjab Kings|Mary Trail Stadium": 0.4571,
+    "Chennai Super Kings|Rice Crescent Stadium": 0.5574,
+    "Royal Challengers Bangalore|Yu Keys Stadium": 0.4754,
+    "Rajasthan Royals|Nicole Bridge Stadium": 0.5385,
+    "Chennai Super Kings|Manning Village Stadium": 0.5455,
+    "Rajasthan Royals|Mary Trail Stadium": 0.5735,
+    "Delhi Capitals|Nicole Bridge Stadium": 0.5208,
+    "Sunrisers Hyderabad|Dillon Plain Stadium": 0.4677
+  },
+  "toss_advantage": 0.5047,
+  "bat_first_win_rate": 0.5092,
+  "field_first_win_rate": 0.5003
+}

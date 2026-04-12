@@ -1,0 +1,21 @@
+stadium_id,name,city,country,capacity,pitch_type,avg_first_innings_score,avg_second_innings_score,boundary_length,floodlights
+1,Nicole Bridge Stadium,Lake Wendy,India,54307,Dry,144,163,68.2,True
+2,Dillon Plain Stadium,West Haleychester,India,45588,Dusty,142,170,65.8,False
+3,Rice Crescent Stadium,Lopezside,India,36623,Flat,162,180,61.0,True
+4,Jason Alley Stadium,South Michaelmouth,India,68034,Flat,189,167,71.0,False
+5,Misty Underpass Stadium,Margaretborough,India,28743,Flat,162,164,65.1,True
+6,Brenda Land Stadium,Spencermouth,India,74420,Dusty,184,160,69.5,True
+7,Mary Trail Stadium,Hartberg,India,24135,Dusty,142,148,63.0,True
+8,Ford Burgs Stadium,Michellemouth,India,78051,Flat,160,149,67.7,False
+9,Lopez Field Stadium,North Danielle,India,36601,Flat,188,171,62.9,False
+10,Hammond Lakes Stadium,Port Evanmouth,India,76501,Flat,181,151,64.1,False
+11,Jonathan Squares Stadium,Lake Xaviermouth,India,48636,Dusty,187,158,73.4,False
+12,Ellison Ports Stadium,North Albert,India,42219,Green,171,174,67.5,False
+13,Berger Cliff Stadium,Port Jasmine,India,72504,Flat,186,157,61.2,True
+14,Yu Keys Stadium,Jenniferchester,India,55748,Dry,160,136,61.2,False
+15,Brown Orchard Stadium,Port Brittanyville,India,40086,Dusty,178,175,66.4,False
+16,Melissa Loop Stadium,Clarkbury,India,43038,Dusty,142,176,73.1,False
+17,Robbins Flat Stadium,West Bryan,India,60294,Dusty,157,170,74.7,True
+18,Anthony Glens Stadium,West Amandashire,India,24917,Dusty,163,162,72.0,True
+19,Duncan Port Stadium,New Robert,India,22040,Green,178,173,71.7,True
+20,Manning Village Stadium,Thomasport,India,28272,Flat,155,179,69.7,False
